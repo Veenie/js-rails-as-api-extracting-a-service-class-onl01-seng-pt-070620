@@ -4,4 +4,6 @@ class SightingSerializer
     @sighting = sighting_object
   end
   
+  
+  
 end
